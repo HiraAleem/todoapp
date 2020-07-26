@@ -1,0 +1,135 @@
+#fish{
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+#lf{
+    color: blanchedalmond;
+    margin: 0 auto;  
+}
+#list{
+    margin-left:40px;
+   
+    
+}
+.hey{
+    padding: 10px;
+}
+.btn{
+    
+    height: 30px;
+    width: 62px;
+    text-align: center;
+    border-radius: 25px;
+    border:none;
+    color:#fff;
+    margin:0.25 rem;
+    margin-left: 30px;
+    background-color:yellowgreen ;
+    
+    cursor: pointer;
+
+}
+.btnn{
+    
+    height: 30px;
+    width: 62px;
+    text-align: center;
+    border-radius: 25px;
+    border:none;
+    color:#fff;
+    margin:0.25 rem;
+    margin-left: 5px;
+    
+    background-color:yellowgreen ;
+    
+    cursor: pointer;
+
+}
+
+/*#todo-item{
+    margin: 190px auto;
+}*/
+.alif{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    border:none;
+    color:#fff;
+    margin:0.25 rem;
+    background-color:plum ;
+    cursor: pointer;
+
+}
+.baa{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    border:none;
+    color:#fff;
+    margin:0.25 rem;
+    background-color:plum ;
+    cursor: pointer;
+
+}
+.a{
+    width: 170px;
+    height: 30px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h1{
+    color: white;
+    
+}
+@media only screen and ( max-width:600px){
+    body{
+        width: 400px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    body{
+        width: 200px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    #fish{
+        width: 400px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    #fish{
+        width: 200px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    .f{
+        width: 400px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    .f{
+        width: 200px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    #lf{
+        width: 400px;
+    }
+  }
+  @media only screen and ( max-width:600px){
+    #lf{
+        width: 200px;
+    }
+  }
+  
+       
+
+ 
+  
+
+
